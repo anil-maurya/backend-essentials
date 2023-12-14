@@ -4,22 +4,22 @@
 2. Git, GitHub & Bitbucket
 3. Git Installation & Setup repository
 4. commands
-   1. git init
-   2. git commit
-   3. git status
-   4. git log
-   5. git config
-   6. git clone
-   7. git branch
-   8. git diff
-   9. git checkout
-   10. git merge
-   11. git remote add
-   12. git fetch
-   13. git merge
-   14. git push
-   15. git stash
-   16. git stash list
+   1. `git init`
+   2. `git commit`
+   3. `git status`
+   4. `git log`
+   5. `git config`
+   6. `git clone`
+   7. `git branch`
+   8. `git diff`
+   9. `git checkout`
+   10. `git merge`
+   11. `git remote add`
+   12. `git fetch`
+   13. `git merge`
+   14. `git push`
+   15. `git stash`
+   16. `git stash list`
 
 ## Assignments
 
