@@ -23,7 +23,7 @@
 
 ## Assignments
 
-### 1: Set Up Git and GitHub
+### Set Up Git and GitHub
 
 **Objective:** Set up Git on your local machine and create an account on GitHub.
 
@@ -31,7 +31,7 @@
 2. Configure your Git username and email.
 3. Create a GitHub account.
 
-### 2: Create Your First Repository
+### Create Your First Repository
 
 **Objective:** Create a simple repository on GitHub and clone it to your local machine.
 
@@ -39,7 +39,7 @@
 2. Clone the repository to your local machine.
 3. Create a new file, make changes, commit, and push it to GitHub.
 
-### 3: Branching and Merging
+### Branching and Merging
 
 **Objective:** Learn about branching and merging in Git.
 
@@ -47,23 +47,14 @@
 2. Make changes in the new branch.
 3. Merge the changes back to the main branch.
 
-### 4: Forking and Pull Requests
-
-**Objective:** Practice forking repositories and creating pull requests.
-
-1. Fork a repository from another GitHub user.
-2. Clone your forked repository.
-3. Create a new branch, make changes, commit, and push.
-4. Create a pull request to the original repository.
-
-### 5: Conflict Resolution
+### Conflict Resolution
 
 **Objective:** Experience resolving conflicts in Git.
 
 1. Create a branch and make changes in the same file on both the main branch and the new branch.
 2. Attempt to merge the branches and resolve any conflicts.
 
-### 6: Gitignore
+### Gitignore
 
 **Objective:** Learn to use `.gitignore` to exclude files from version control.
 
@@ -71,24 +62,26 @@
 2. Add entries to ignore specific files or directories.
 3. Ensure these files are not tracked by Git.
 
-### 7: Tagging
-
-**Objective:** Practice creating tags in Git.
-
-1. Tag a specific commit with a version number.
-2. Push the tag to GitHub.
-
-### 8: Git Log and History
+### Git Log and History
 
 **Objective:** Explore the history of your repository.
 
 1. Use `git log` to view commit history.
 2. Experiment with different options to filter and format the log.
 
-### 9: Revert and Reset
+### Revert and Reset
 
 **Objective:** Learn how to undo changes in Git.
 
 1. Make a commit with changes.
 2. Use `git revert` to create a new commit that undoes a previous commit.
 3. Use `git reset` to move the branch pointer to a previous commit.
+
+### Forking and Pull Requests
+
+**Objective:** Practice forking repositories and creating pull requests.
+
+1. Fork a repository from another GitHub user.
+2. Clone your forked repository.
+3. Create a new branch, make changes, commit, and push.
+4. Create a pull request to the original repository.

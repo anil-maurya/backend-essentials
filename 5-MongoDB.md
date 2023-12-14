@@ -24,13 +24,13 @@
    - Sharding
 
 6. Data Model and Data Types
-7. Collections and Methods
+7. Collection Methods
 
-   1. insert
-   2. find
-   3. update
-   4. deleteOne and others
-   5. bulkWrite and others
+   1. `insert`
+   2. `find`
+   3. `update`
+   4. `deleteOne and others`
+   5. `bulkWrite and others`
 
 8. Useful Concepts
 

@@ -13,11 +13,9 @@
 7. Node.js Modules
    1. common js
    2. ESM
-8. Building Web Servers with Express
+8. Building Web Servers with Node
 9. Introduction to Express
 10. Routes & Middleware
-
-Certainly! Here's a practical assignment for a Node.js/MongoDB backend developer to assess their understanding of creating REST endpoints, route setup, middleware configuration, error handling, and using MongoDB to store and retrieve data:
 
 ### Assignments
 
