@@ -19,27 +19,24 @@
 
 ## Assignments
 
-1. Nginx
+### 1. Nginx
 
 - Install Nginx on your local machine.
 - Configure a simple website using Nginx with a basic HTML file.
 - Create a simple hello world page and host on nginx
 
-2. HTTP Ports
+### 2. Configuring Nginx Ports:
 
 - Explain what a port is and its significance in networking.
 - Identify commonly used ports for web-related services (e.g., HTTP, HTTPS).
+- Explore the Nginx configuration file and identify the section related to ports.
+- Experiment with changing the default port (80) to a different port and observe the impact.
 
-3. Configuring Nginx Ports:
+### 4. Local Website Access:
 
-   - Explore the Nginx configuration file and identify the section related to ports.
-   - Experiment with changing the default port (80) to a different port and observe the impact.
+- Access the website you configured in Nginx locally using your web browser.
 
-4. Local Website Access:
+### 5. Network Access:
 
-   - Access the website you configured in Nginx locally using your web browser.
-
-5. Network Access:
-
-   - Ensure your Nginx server is accessible from another device on the same network.
-   - Access the Nginx website from a different device using the server's IP address and the configured port.
+- Ensure your Nginx server is accessible from another device on the same network.
+- Access the Nginx website from a different device using the server's IP address and the configured port.
