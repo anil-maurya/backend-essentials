@@ -1,2 +1,2 @@
-# backend-essentials
-Node Js Backend Development Roadmap
+# Backend Essentials
+Step by step roadmap to learn backend development
